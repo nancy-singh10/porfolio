@@ -17,6 +17,8 @@ This project is a front-end-only work profile website designed to present profes
 - **CSS**: For styling and layout, including Tailwind CSS for utility-first design.
 ## Installation
 
+##“Deployed the front-end work profile website using Netlify for seamless and reliable hosting.”
+
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/work-profile-website.git
